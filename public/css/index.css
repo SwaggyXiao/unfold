@@ -1,0 +1,22 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+html { 
+    background: url(/public/img/Background@3x.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+section{
+    display: flex;
+    margin: 20%;
+}
+.btn-success{
+    margin-top: 10px;
+    margin-left: 91%;
+}
+/* .form-control{
+    border: 5px round rgb(129, 198, 201);
+} */
