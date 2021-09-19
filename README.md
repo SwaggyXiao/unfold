@@ -25,4 +25,5 @@ Does your mind fall apart from time to time? Do you have trouble opening up to p
 Understand your mood by chatting with the AI, which is not just your buddy, but also automatically assesses your mental state and provides appropriate advice through the conversation. As the AI becomes more familiar with you, the greater the likelihood that you will receive the “right” letter.
 
 ### 3. Stay on top of your heart ☝️
-There are times when we just have too much going on, Unfold uses advanced algorithms to feel your heart and translate elusive emotions into easily readable charts and data. Seeing with your own eyes that your positive energy is slowly increasing!
+
+There are times when we just have too much to do. Unfold uses advanced algorithms to feel your heart and translate elusive emotions into easy-to-read charts and data. See for yourself how your positive energy increases day by day and work with you to take back control of your life again.
