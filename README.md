@@ -9,7 +9,7 @@
 
 # About
 
-Unfold is a mental heath app that helps people overcome the lack of communication during and after the pandemic. "Unfold" aims to provide a healing community for expressing feelings safely. You will encounter friends through anonymous letters and embrace every unique person with a sincere heart.
+Unfold is a mental heath app that helps people overcome the lack of communication and control of their lives during and after the pandemic. It is a next-generation, self-healing app , that uses the top two most popular therapeutic practices. Talking therapy and writing therapy. To help people overcome this difficulty during and after depend the pandemic. Unfold aims to provide a healing community for expressing feelings safely, through means of anonymous letters and a personal AI companion. Plus a recommendation algorithm based on artificial intelligence, that listen to the user patiently and feels what user feel. Not only the app can make smarter decision, but also enable users to track their emotional stage. Most traditional/existing psychology therapy can only passively measuring the effectiveness of the outcome.
 
 
 ## Why different compare to the traditional therapy?
