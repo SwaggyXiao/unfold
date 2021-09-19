@@ -18,11 +18,11 @@ Compared to traditional 1-to-1 therapy, emotions in Unfold are shared in the com
 ---
 
 ## Here's how this app works.
-### 1. Express Feeling
+### 1. Express 🙋
 Does your mind fall apart from time to time? Do you have trouble opening up to people? Write a letter about what's bothering you and send it out. There will be a warm soul waiting to cheer you up or warm someone else with your soul.
 
-### 2. AI Evaluation & Guidance
+### 2. Your personal AI therapist 🩺
 Understand your mood by chatting with the AI, which is not just your buddy, but also automatically assesses your mental state and provides appropriate advice through the conversation. As the AI becomes more familiar with you, the greater the likelihood that you will receive the “right” letter.
 
-### 3. Pen pal & Hugs
+### 3. Stay on top of your heart ☝️
 Building friendships by sending out positive energy. Only the special ones deserves a place in limited mailbox capacity. Each day there will be three anonymous letter deliver to your, you can choose to reply it or provide a warm hug to another soul.
