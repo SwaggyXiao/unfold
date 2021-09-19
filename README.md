@@ -8,12 +8,11 @@
 > "Unfold envelopes to smooth the ruffles of heart."
 
 # About
-
-Unfold is a mental heath app that helps people overcome the lack of communication and control of their lives during and after the pandemic. It is a next-generation, self-healing app , that uses the top two most popular therapeutic practices. Talking therapy and writing therapy. To help people overcome this difficulty during and after depend the pandemic. Unfold aims to provide a healing community for expressing feelings safely, through means of anonymous letters and a personal AI companion. Plus a recommendation algorithm based on artificial intelligence, that listen to the user patiently and feels what user feel. Not only the app can make smarter decision, but also enable users to track their emotional stage. Most traditional/existing psychology therapy can only passively measuring the effectiveness of the outcome.
+Unfold is a mental heath app that helps people overcome the lack of communication and control of their lives during and after the pandemic. It is a next-generation, self-healing app , that uses the top two most popular therapeutic practices. Talking therapy and writing therapy. To help people overcome this difficulty during and after depend the pandemic. Unfold aims to provide a healing community for expressing feelings safely, through means of anonymous letters and a personal AI companion.
 
 
 ## Why different compare to the traditional therapy?
-Compared to traditional 1-to-1 therapy, emotions in Unfold are shared in the community. An artificial intelligence-based recommendation system is used in our application. It selects three different letters from other users that sent out each day. These letters can be short story, emotional quotes, or a personal experience. From reading the letters, our user might smile, laugh, or even have a drop of tears. Emotion will resonance long after the reading, and this provides an emotional catharsis for our users.
+Unlike traditional 1-to-1 therapy, emotions in Unfold are shared in the community. An artificial intelligence-based recommendation system is used in our application. It listens to the user patiently and feels what user feel, and carefully selects three different letters from other users that sent out each day. These letters can be short story, emotional quotes, or a personal experience. From reading the letters, our user might smile, laugh, or even have a drop of tears.  will resonance long after the reading, and this provides an emotional catharsis for our users. Not only the app can make smarter decision, but also enable users to track their emotional stage. Most traditional/existing psychology therapy can only passively measuring the effectiveness of the outcome.
 
 ---
 
