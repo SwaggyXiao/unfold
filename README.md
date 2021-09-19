@@ -25,4 +25,4 @@ Does your mind fall apart from time to time? Do you have trouble opening up to p
 Understand your mood by chatting with the AI, which is not just your buddy, but also automatically assesses your mental state and provides appropriate advice through the conversation. As the AI becomes more familiar with you, the greater the likelihood that you will receive the “right” letter.
 
 ### 3. Stay on top of your heart ☝️
-Building friendships by sending out positive energy. Only the special ones deserves a place in limited mailbox capacity. Each day there will be three anonymous letter deliver to your, you can choose to reply it or provide a warm hug to another soul.
+There are times when we just have too much going on, Unfold uses advanced algorithms to feel your heart and translate elusive emotions into easily readable charts and data. Seeing with your own eyes that your positive energy is slowly increasing!
