@@ -34,7 +34,7 @@ There are times when we just have too much to do. Unfold uses advanced algorithm
 ## How we built it
 Our work is divided into three main parts: user survey, product design and a machine learning based demo to prove the feasibility of our algorithm. For the user survey and interview, we used Google form and jupyter notebook etc. for data analysis and visualization. We also used jupyter notebook to pre-process the training dataset: Twitter sentiment data related to the 2016 presidential election debate. Figma was our main design tool, along with miro. For the machine learning part, we used sklearn, keras and TensorFlow for text sentiment analysis. To better demonstrate our model, we used python+flask as the backend and react as the frontend to develop an online demo.
 
-##Challenges we ran into
+## Challenges we ran into
 
 We faced three main challenges: design philosophy, lack of training datasets leading to inaccurate trained models, and the inability to turn the models into online demos. we thought long and hard about the design from the user's perspective and interviewed potential users to get our final feature design. Due to the natural sensitivity of sentiment analysis datasets, we spent a lot of time searching for datasets at the beginning of the Hackathon. And even after finding a dataset we were still not satisfied with the accuracy of the model. Also most of our developers studied data science, and we had no experience with flask and react at all, so we also spent some time learning these techniques on an ad hoc basis.
 
